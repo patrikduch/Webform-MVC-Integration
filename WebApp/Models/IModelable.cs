@@ -1,11 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="IModelable" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//--------------------------------------------------------------------------------
-
-namespace WebApp.Models
+﻿namespace WebApp.Models
 {
     /// <summary>
     /// Interface that must be implemented by every MVC model

@@ -1,11 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="RouteConfig" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//--------------------------------------------------------------------------------
-
-namespace WebApp
+﻿namespace WebApp
 {
     using System.Web.Mvc;
     using System.Web.Routing;

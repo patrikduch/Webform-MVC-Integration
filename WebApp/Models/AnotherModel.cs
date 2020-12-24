@@ -1,10 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="AnotherModel" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//--------------------------------------------------------------------------------
-namespace WebApp.Models
+﻿namespace WebApp.Models
 {
     /// <summary>
     /// Another test model for implementation MVC design pattern.

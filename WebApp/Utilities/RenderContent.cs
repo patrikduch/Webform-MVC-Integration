@@ -1,10 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="RenderContent" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//--------------------------------------------------------------------------------
-namespace WebApp.Utilities
+﻿namespace WebApp.Utilities
 {
     using System.IO;
     using System.Web;
