@@ -1,11 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="Database" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//--------------------------------------------------------------------------------
-
-namespace WebApp.Orm
+﻿namespace WebApp.Orm
 {
     using System;
     using System.Data;

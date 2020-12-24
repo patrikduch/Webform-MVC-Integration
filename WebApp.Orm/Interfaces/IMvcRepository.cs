@@ -1,11 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="IMvcRepository.cs" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//---------------------------------------------------------------------------------
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using WebApp.Orm.DAO.MvcIntegration;
 
 namespace WebApp.Orm.Interfaces

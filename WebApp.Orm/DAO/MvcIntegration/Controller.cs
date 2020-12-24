@@ -1,10 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="Controller.cs" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//---------------------------------------------------------------------------------
-namespace WebApp.Orm.DAO.MvcIntegration
+﻿namespace WebApp.Orm.DAO.MvcIntegration
 {
     /// <summary>
     /// Entity class that represents controller.

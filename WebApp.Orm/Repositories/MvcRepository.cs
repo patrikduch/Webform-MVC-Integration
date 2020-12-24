@@ -1,11 +1,4 @@
-﻿//---------------------------------------------------------------------------------
-// <copyright file="MvcRepository.cs" website="Patrikduch.com">
-//     Copyright 2019 (c) Patrikduch.com
-// </copyright>
-// <author>Patrik Duch</author>
-//---------------------------------------------------------------------------------
-
-using WebApp.Orm.DAO.MvcIntegration;
+﻿using WebApp.Orm.DAO.MvcIntegration;
 using WebApp.Orm.Interfaces;
 using WebApp.Orm.WebApp.Orm.Database;
 
